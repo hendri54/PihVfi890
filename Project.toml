@@ -1,7 +1,13 @@
-name = "PihVfi"
+name = "PihVfi890"
 uuid = "2b51a4f6-834b-43d3-87b4-deeb5efd0b91"
 authors = ["hendri54 <hendricksl@protonmail.com> and contributors"]
 version = "0.1.0"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+UtilityFunctions890 = "472bbc0e-dba9-4e0f-abb5-c1726d0b1625"
 
 [compat]
 julia = "1"
